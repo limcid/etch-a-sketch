@@ -1,0 +1,25 @@
+div {
+    /* border: 1px solid gray; */
+}
+
+#container {
+    width: 320px;
+    height: 320px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 1px solid gray;
+    /* background-color: black; */
+
+}
+
+.grid_element {
+    /* background-color: bisque; */
+    width: 20px;
+    height: 20px;
+    
+}
+
+.grid_element:hover {
+    background-color: blueviolet;
+}
