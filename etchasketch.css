@@ -3,8 +3,8 @@ div {
 }
 
 #container {
-    width: 320px;
-    height: 320px;
+    width: 640px;
+    height: 640px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -13,9 +13,6 @@ div {
 
 }
 
-.grid_element {
-    /* background-color: bisque; */
-    width: 10px;
-    height: 10px;
-    
+.btn_gridres {
+    margin-bottom: 15px;
 }
